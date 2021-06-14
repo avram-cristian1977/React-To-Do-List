@@ -1,0 +1,30 @@
+.fullChart{
+    height: 15px;
+    min-width:200px;
+    background-color: brown;
+    margin-bottom: 20px;
+}
+
+
+
+.taskFill{
+    height :15px;
+    background-color: rgb(68, 122, 68);
+    transition: all 1s;
+}
+
+.badge{
+    background-color:blue;
+    display: inline;
+    padding: 8px;
+    border-radius: 30%;
+    color: white;
+}
+
+
+.wrapper {
+   text-align: center;
+}
+
+
+
